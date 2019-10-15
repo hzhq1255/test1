@@ -1,0 +1,1306 @@
+{
+  "lines": [
+    {
+      "lineNo": 1,
+      "lineName": "1号线",
+      "stations": [
+        {
+          "stationName": "苹果园"
+        },
+        {
+          "stationName": "古城"
+        },
+        {
+          "stationName": "八角游乐园"
+        },
+        {
+          "stationName": "八宝山"
+        },
+        {
+          "stationName": "玉泉路"
+        },
+        {
+          "stationName": "五棵松"
+        },
+        {
+          "stationName": "万寿路"
+        },
+        {
+          "stationName": "公主坟"
+        },
+        {
+          "stationName": "军事博物馆"
+        },
+        {
+          "stationName": "木樨地"
+        },
+        {
+          "stationName": "南礼士路"
+        },
+        {
+          "stationName": "复兴门"
+        },
+        {
+          "stationName": "西单"
+        },
+        {
+          "stationName": "天安门西"
+        },
+        {
+          "stationName": "天安门东"
+        },
+        {
+          "stationName": "王府井"
+        },
+        {
+          "stationName": "东单"
+        },
+        {
+          "stationName": "建国门"
+        },
+        {
+          "stationName": "永安里"
+        },
+        {
+          "stationName": "国贸"
+        },
+        {
+          "stationName": "大望路"
+        },
+        {
+          "stationName": "四惠"
+        },
+        {
+          "stationName": "四惠东"
+        }
+      ]
+    },
+    {
+      "lineNo": 2,
+      "lineName": "2号线",
+      "stations": [
+        {
+          "stationName": "积水潭"
+        },
+        {
+          "stationName": "鼓楼大街"
+        },
+        {
+          "stationName": "安定门"
+        },
+        {
+          "stationName": "雍和宫"
+        },
+        {
+          "stationName": "东直门"
+        },
+        {
+          "stationName": "东四十条"
+        },
+        {
+          "stationName": "朝阳门"
+        },
+        {
+          "stationName": "建国门"
+        },
+        {
+          "stationName": "北京站"
+        },
+        {
+          "stationName": "崇文门"
+        },
+        {
+          "stationName": "前门"
+        },
+        {
+          "stationName": "和平门"
+        },
+        {
+          "stationName": "宣武门"
+        },
+        {
+          "stationName": "长椿街"
+        },
+        {
+          "stationName": "复兴门"
+        },
+        {
+          "stationName": "阜成门"
+        },
+        {
+          "stationName": "车公庄"
+        },
+        {
+          "stationName": "西直门"
+        },
+        {
+          "stationName": "积水潭"
+        }
+      ]
+    },
+    {
+      "lineNo": 3,
+      "lineName": "4号线大兴线",
+      "stations": [
+        {
+          "stationName": "安河桥北"
+        },
+        {
+          "stationName": "北宫门"
+        },
+        {
+          "stationName": "西苑"
+        },
+        {
+          "stationName": "圆明园"
+        },
+        {
+          "stationName": "北京大学东门"
+        },
+        {
+          "stationName": "中关村"
+        },
+        {
+          "stationName": "海淀黄庄"
+        },
+        {
+          "stationName": "人民大学"
+        },
+        {
+          "stationName": "魏公村"
+        },
+        {
+          "stationName": "国家图书馆"
+        },
+        {
+          "stationName": "动物园"
+        },
+        {
+          "stationName": "西直门"
+        },
+        {
+          "stationName": "新街口"
+        },
+        {
+          "stationName": "平安里"
+        },
+        {
+          "stationName": "西四"
+        },
+        {
+          "stationName": "灵境胡同"
+        },
+        {
+          "stationName": "西单"
+        },
+        {
+          "stationName": "宣武门"
+        },
+        {
+          "stationName": "菜市口"
+        },
+        {
+          "stationName": "陶然亭"
+        },
+        {
+          "stationName": "北京南站"
+        },
+        {
+          "stationName": "马家堡"
+        },
+        {
+          "stationName": "角门西"
+        },
+        {
+          "stationName": "公益西桥"
+        },
+        {
+          "stationName": "新宫"
+        },
+        {
+          "stationName": "西红门"
+        },
+        {
+          "stationName": "高米店北"
+        },
+        {
+          "stationName": "高米店南"
+        },
+        {
+          "stationName": "枣园"
+        },
+        {
+          "stationName": "清源路"
+        },
+        {
+          "stationName": "黄村西大街"
+        },
+        {
+          "stationName": "黄村火车站"
+        },
+        {
+          "stationName": "义和庄"
+        },
+        {
+          "stationName": "生物医药基地"
+        },
+        {
+          "stationName": "天宫院"
+        }
+      ]
+    },
+    {
+      "lineNo": 4,
+      "lineName": "5号线",
+      "stations": [
+        {
+          "stationName": "天通苑北"
+        },
+        {
+          "stationName": "天通苑"
+        },
+        {
+          "stationName": "天通苑南"
+        },
+        {
+          "stationName": "立水桥"
+        },
+        {
+          "stationName": "立水桥南"
+        },
+        {
+          "stationName": "北苑路北"
+        },
+        {
+          "stationName": "大屯路东"
+        },
+        {
+          "stationName": "惠新西街北口"
+        },
+        {
+          "stationName": "惠新西街南口"
+        },
+        {
+          "stationName": "和平西桥"
+        },
+        {
+          "stationName": "和平里北桥"
+        },
+        {
+          "stationName": "雍和宫"
+        },
+        {
+          "stationName": "北新桥"
+        },
+        {
+          "stationName": "张自忠路"
+        },
+        {
+          "stationName": "东四"
+        },
+        {
+          "stationName": "灯市口"
+        },
+        {
+          "stationName": "东单"
+        },
+        {
+          "stationName": "崇文门"
+        },
+        {
+          "stationName": "磁器口"
+        },
+        {
+          "stationName": "天坛东门"
+        },
+        {
+          "stationName": "蒲黄榆"
+        },
+        {
+          "stationName": "刘家窑"
+        },
+        {
+          "stationName": "宋家庄"
+        }
+      ]
+    },
+    {
+      "lineNo": 5,
+      "lineName": "6号线",
+      "stations": [
+        {
+          "stationName": "金安桥"
+        },
+        {
+          "stationName": "杨庄"
+        },
+        {
+          "stationName": "西黄村"
+        },
+        {
+          "stationName": "廖公庄"
+        },
+        {
+          "stationName": "田村"
+        },
+        {
+          "stationName": "海淀五路居"
+        },
+        {
+          "stationName": "慈寿寺"
+        },
+        {
+          "stationName": "花园桥"
+        },
+        {
+          "stationName": "白石桥南"
+        },
+        {
+          "stationName": "车公庄西"
+        },
+        {
+          "stationName": "车公庄"
+        },
+        {
+          "stationName": "平安里"
+        },
+        {
+          "stationName": "北海北"
+        },
+        {
+          "stationName": "南锣鼓巷"
+        },
+        {
+          "stationName": "东四"
+        },
+        {
+          "stationName": "朝阳门"
+        },
+        {
+          "stationName": "东大桥"
+        },
+        {
+          "stationName": "呼家楼"
+        },
+        {
+          "stationName": "金台路"
+        },
+        {
+          "stationName": "十里堡"
+        },
+        {
+          "stationName": "青年路"
+        },
+        {
+          "stationName": "褡裢坡"
+        },
+        {
+          "stationName": "黄渠"
+        },
+        {
+          "stationName": "常营"
+        },
+        {
+          "stationName": "草房"
+        },
+        {
+          "stationName": "物资学院路"
+        },
+        {
+          "stationName": "通州北关"
+        },
+        {
+          "stationName": "北运河西"
+        },
+        {
+          "stationName": "北运河东"
+        },
+        {
+          "stationName": "郝家府"
+        },
+        {
+          "stationName": "东夏园"
+        },
+        {
+          "stationName": "潞城"
+        }
+      ]
+    },
+    {
+      "lineNo": 6,
+      "lineName": "7号线",
+      "stations": [
+        {
+          "stationName": "北京西站"
+        },
+        {
+          "stationName": "湾子"
+        },
+        {
+          "stationName": "达官营"
+        },
+        {
+          "stationName": "广安门内"
+        },
+        {
+          "stationName": "菜市口"
+        },
+        {
+          "stationName": "虎坊桥"
+        },
+        {
+          "stationName": "珠市口"
+        },
+        {
+          "stationName": "桥湾"
+        },
+        {
+          "stationName": "磁器口"
+        },
+        {
+          "stationName": "广渠门内"
+        },
+        {
+          "stationName": "广渠门外"
+        },
+        {
+          "stationName": "九龙山"
+        },
+        {
+          "stationName": "大郊亭"
+        },
+        {
+          "stationName": "百子湾"
+        },
+        {
+          "stationName": "化工"
+        },
+        {
+          "stationName": "南楼梓庄"
+        },
+        {
+          "stationName": "欢乐谷景区"
+        },
+        {
+          "stationName": "垡头"
+        },
+        {
+          "stationName": "双合"
+        },
+        {
+          "stationName": "焦化厂"
+        }
+      ]
+    },
+    {
+      "lineNo": 7,
+      "lineName": "8号线",
+      "stations": [
+        {
+          "stationName": "朱辛庄"
+        },
+        {
+          "stationName": "育知路"
+        },
+        {
+          "stationName": "平西府"
+        },
+        {
+          "stationName": "回龙观东大街"
+        },
+        {
+          "stationName": "霍营"
+        },
+        {
+          "stationName": "育新"
+        },
+        {
+          "stationName": "西小口"
+        },
+        {
+          "stationName": "永泰庄"
+        },
+        {
+          "stationName": "林萃桥"
+        },
+        {
+          "stationName": "森林公园南门"
+        },
+        {
+          "stationName": "奥林匹克公园"
+        },
+        {
+          "stationName": "奥体中心"
+        },
+        {
+          "stationName": "北土城"
+        },
+        {
+          "stationName": "安华桥"
+        },
+        {
+          "stationName": "安德里北街"
+        },
+        {
+          "stationName": "鼓楼大街"
+        },
+        {
+          "stationName": "什刹海"
+        },
+        {
+          "stationName": "南锣鼓巷"
+        },
+        {
+          "stationName": "中国美术馆"
+        }
+      ]
+    },
+    {
+      "lineNo": 8,
+      "lineName": "8号线南段",
+      "stations": [
+        {
+          "stationName": "珠市口"
+        },
+        {
+          "stationName": "天桥"
+        },
+        {
+          "stationName": "永定门外"
+        },
+        {
+          "stationName": "木樨园"
+        },
+        {
+          "stationName": "海户屯"
+        },
+        {
+          "stationName": "大红门南"
+        },
+        {
+          "stationName": "和义"
+        },
+        {
+          "stationName": "东高地"
+        },
+        {
+          "stationName": "火箭万源"
+        },
+        {
+          "stationName": "五福堂"
+        },
+        {
+          "stationName": "德茂"
+        },
+        {
+          "stationName": "瀛海"
+        }
+      ]
+    },
+    {
+      "lineNo": 9,
+      "lineName": "9号线",
+      "stations": [
+        {
+          "stationName": "国家图书馆"
+        },
+        {
+          "stationName": "白石桥南"
+        },
+        {
+          "stationName": "白堆子"
+        },
+        {
+          "stationName": "军事博物馆"
+        },
+        {
+          "stationName": "北京西站"
+        },
+        {
+          "stationName": "六里桥东"
+        },
+        {
+          "stationName": "六里桥"
+        },
+        {
+          "stationName": "七里庄"
+        },
+        {
+          "stationName": "丰台东大街"
+        },
+        {
+          "stationName": "丰台南路"
+        },
+        {
+          "stationName": "科怡路"
+        },
+        {
+          "stationName": "丰台科技园"
+        },
+        {
+          "stationName": "郭公庄"
+        }
+      ]
+    },
+    {
+      "lineNo": 10,
+      "lineName": "10号线",
+      "stations": [
+        {
+          "stationName": "巴沟"
+        },
+        {
+          "stationName": "苏州街"
+        },
+        {
+          "stationName": "海淀黄庄"
+        },
+        {
+          "stationName": "知春里"
+        },
+        {
+          "stationName": "知春路"
+        },
+        {
+          "stationName": "西土城"
+        },
+        {
+          "stationName": "牡丹园"
+        },
+        {
+          "stationName": "健德门"
+        },
+        {
+          "stationName": "北土城"
+        },
+        {
+          "stationName": "安贞门"
+        },
+        {
+          "stationName": "惠新西街南口"
+        },
+        {
+          "stationName": "芍药居"
+        },
+        {
+          "stationName": "太阳宫"
+        },
+        {
+          "stationName": "三元桥"
+        },
+        {
+          "stationName": "亮马桥"
+        },
+        {
+          "stationName": "农业展览馆"
+        },
+        {
+          "stationName": "团结湖"
+        },
+        {
+          "stationName": "呼家楼"
+        },
+        {
+          "stationName": "金台夕照"
+        },
+        {
+          "stationName": "国贸"
+        },
+        {
+          "stationName": "双井"
+        },
+        {
+          "stationName": "劲松"
+        },
+        {
+          "stationName": "潘家园"
+        },
+        {
+          "stationName": "十里河"
+        },
+        {
+          "stationName": "分钟寺"
+        },
+        {
+          "stationName": "成寿寺"
+        },
+        {
+          "stationName": "宋家庄"
+        },
+        {
+          "stationName": "石榴庄"
+        },
+        {
+          "stationName": "大红门"
+        },
+        {
+          "stationName": "角门东"
+        },
+        {
+          "stationName": "角门西"
+        },
+        {
+          "stationName": "草桥"
+        },
+        {
+          "stationName": "纪家庙"
+        },
+        {
+          "stationName": "首经贸"
+        },
+        {
+          "stationName": "丰台站"
+        },
+        {
+          "stationName": "泥洼"
+        },
+        {
+          "stationName": "西局"
+        },
+        {
+          "stationName": "六里桥"
+        },
+        {
+          "stationName": "莲花桥"
+        },
+        {
+          "stationName": "公主坟"
+        },
+        {
+          "stationName": "西钓鱼台"
+        },
+        {
+          "stationName": "慈寿寺"
+        },
+        {
+          "stationName": "车道沟"
+        },
+        {
+          "stationName": "长春桥"
+        },
+        {
+          "stationName": "火器营"
+        },
+        {
+          "stationName": "巴沟"
+        }
+      ]
+    },
+    {
+      "lineNo": 11,
+      "lineName": "13号线",
+      "stations": [
+        {
+          "stationName": "西直门"
+        },
+        {
+          "stationName": "大钟寺"
+        },
+        {
+          "stationName": "知春路"
+        },
+        {
+          "stationName": "五道口"
+        },
+        {
+          "stationName": "上地"
+        },
+        {
+          "stationName": "西二旗"
+        },
+        {
+          "stationName": "回龙观"
+        },
+        {
+          "stationName": "霍营"
+        },
+        {
+          "stationName": "立水桥"
+        },
+        {
+          "stationName": "北苑"
+        },
+        {
+          "stationName": "望京西"
+        },
+        {
+          "stationName": "芍药居"
+        },
+        {
+          "stationName": "光熙门"
+        },
+        {
+          "stationName": "柳芳"
+        },
+        {
+          "stationName": "东直门"
+        }
+      ]
+    },
+    {
+      "lineNo": 12,
+      "lineName": "14号线西段",
+      "stations": [
+        {
+          "stationName": "张郭庄"
+        },
+        {
+          "stationName": "园博园"
+        },
+        {
+          "stationName": "大瓦窑"
+        },
+        {
+          "stationName": "郭庄子"
+        },
+        {
+          "stationName": "大井"
+        },
+        {
+          "stationName": "七里庄"
+        },
+        {
+          "stationName": "西局"
+        }
+      ]
+    },
+    {
+      "lineNo": 13,
+      "lineName": "14号线东段",
+      "stations": [
+        {
+          "stationName": "北京南站"
+        },
+        {
+          "stationName": "永定门外"
+        },
+        {
+          "stationName": "景泰"
+        },
+        {
+          "stationName": "蒲黄榆"
+        },
+        {
+          "stationName": "方庄"
+        },
+        {
+          "stationName": "十里河"
+        },
+        {
+          "stationName": "北工大西门"
+        },
+        {
+          "stationName": "平乐园"
+        },
+        {
+          "stationName": "九龙山"
+        },
+        {
+          "stationName": "大望路"
+        },
+        {
+          "stationName": "金台路"
+        },
+        {
+          "stationName": "朝阳公园"
+        },
+        {
+          "stationName": "东风北桥"
+        },
+        {
+          "stationName": "将台"
+        },
+        {
+          "stationName": "望京南"
+        },
+        {
+          "stationName": "阜通"
+        },
+        {
+          "stationName": "望京"
+        },
+        {
+          "stationName": "东湖渠"
+        },
+        {
+          "stationName": "来广营"
+        },
+        {
+          "stationName": "善各庄"
+        }
+      ]
+    },
+    {
+      "lineNo": 14,
+      "lineName": "15号线",
+      "stations": [
+        {
+          "stationName": "清华东路西口"
+        },
+        {
+          "stationName": "六道口"
+        },
+        {
+          "stationName": "北沙滩"
+        },
+        {
+          "stationName": "奥林匹克公园"
+        },
+        {
+          "stationName": "安立路"
+        },
+        {
+          "stationName": "大屯路东"
+        },
+        {
+          "stationName": "关庄"
+        },
+        {
+          "stationName": "望京西"
+        },
+        {
+          "stationName": "望京"
+        },
+        {
+          "stationName": "望京东"
+        },
+        {
+          "stationName": "崔各庄"
+        },
+        {
+          "stationName": "马泉营"
+        },
+        {
+          "stationName": "孙河"
+        },
+        {
+          "stationName": "国展"
+        },
+        {
+          "stationName": "花梨坎"
+        },
+        {
+          "stationName": "后沙峪"
+        },
+        {
+          "stationName": "南法信"
+        },
+        {
+          "stationName": "石门"
+        },
+        {
+          "stationName": "顺义"
+        },
+        {
+          "stationName": "俸伯"
+        }
+      ]
+    },
+    {
+      "lineNo": 15,
+      "lineName": "16号线",
+      "stations": [
+        {
+          "stationName": "北安河"
+        },
+        {
+          "stationName": "温阳路"
+        },
+        {
+          "stationName": "稻香湖路"
+        },
+        {
+          "stationName": "屯佃"
+        },
+        {
+          "stationName": "永丰"
+        },
+        {
+          "stationName": "永丰南"
+        },
+        {
+          "stationName": "西北旺"
+        },
+        {
+          "stationName": "马连洼"
+        },
+        {
+          "stationName": "农大南路"
+        },
+        {
+          "stationName": "西苑"
+        }
+      ]
+    },
+    {
+      "lineNo": 16,
+      "lineName": "八通线",
+      "stations": [
+        {
+          "stationName": "四惠"
+        },
+        {
+          "stationName": "四惠东"
+        },
+        {
+          "stationName": "高碑店"
+        },
+        {
+          "stationName": "传媒大学"
+        },
+        {
+          "stationName": "双桥"
+        },
+        {
+          "stationName": "管庄八里桥"
+        },
+        {
+          "stationName": "通州北苑"
+        },
+        {
+          "stationName": "果园"
+        },
+        {
+          "stationName": "九棵树"
+        },
+        {
+          "stationName": "梨园"
+        },
+        {
+          "stationName": "临河里"
+        },
+        {
+          "stationName": "北桥"
+        }
+      ]
+    },
+    {
+      "lineNo": 17,
+      "lineName": "昌平线",
+      "stations": [
+        {
+          "stationName": "昌平西山口"
+        },
+        {
+          "stationName": "十三陵景区"
+        },
+        {
+          "stationName": "昌平"
+        },
+        {
+          "stationName": "昌平东关"
+        },
+        {
+          "stationName": "北邵洼"
+        },
+        {
+          "stationName": "南邵"
+        },
+        {
+          "stationName": "沙河高教区"
+        },
+        {
+          "stationName": "沙河"
+        },
+        {
+          "stationName": "巩华城"
+        },
+        {
+          "stationName": "朱辛庄"
+        },
+        {
+          "stationName": "生命科学园"
+        },
+        {
+          "stationName": "西二旗"
+        }
+      ]
+    },
+    {
+      "lineNo": 18,
+      "lineName": "亦庄线",
+      "stations": [
+        {
+          "stationName": "宋家庄"
+        },
+        {
+          "stationName": "肖村"
+        },
+        {
+          "stationName": "小红门"
+        },
+        {
+          "stationName": "旧宫"
+        },
+        {
+          "stationName": "亦庄桥"
+        },
+        {
+          "stationName": "亦庄文化园"
+        },
+        {
+          "stationName": "万源街"
+        },
+        {
+          "stationName": "容京东街"
+        },
+        {
+          "stationName": "荣昌东街"
+        },
+        {
+          "stationName": "经海路"
+        },
+        {
+          "stationName": "次渠南"
+        },
+        {
+          "stationName": "次渠"
+        },
+        {
+          "stationName": "亦庄火车站"
+        }
+      ]
+    },
+    {
+      "lineNo": 19,
+      "lineName": "房山线",
+      "stations": [
+        {
+          "stationName": "郭公庄"
+        },
+        {
+          "stationName": "大葆台"
+        },
+        {
+          "stationName": "稻田"
+        },
+        {
+          "stationName": "长阳"
+        },
+        {
+          "stationName": "篱笆房"
+        },
+        {
+          "stationName": "广阳城"
+        },
+        {
+          "stationName": "良乡大学城北"
+        },
+        {
+          "stationName": "良乡大学城"
+        },
+        {
+          "stationName": "良乡大学城西"
+        },
+        {
+          "stationName": "良乡南关"
+        },
+        {
+          "stationName": "苏庄"
+        },
+        {
+          "stationName": "阎村东"
+        }
+      ]
+    },
+    {
+      "lineNo": 20,
+      "lineName": "机场线",
+      "stations": [
+        {
+          "stationName": "东直门"
+        },
+        {
+          "stationName": "三元桥"
+        },
+        {
+          "stationName": "T2/T3航站楼"
+        }
+      ]
+    },
+    {
+      "lineNo": 21,
+      "lineName": "s1线",
+      "stations": [
+        {
+          "stationName": "石厂"
+        },
+        {
+          "stationName": "小园"
+        },
+        {
+          "stationName": "栗园庄"
+        },
+        {
+          "stationName": "上岸"
+        },
+        {
+          "stationName": "桥户营"
+        },
+        {
+          "stationName": "四道桥"
+        },
+        {
+          "stationName": "金安桥"
+        }
+      ]
+    },
+    {
+      "lineNo": 22,
+      "lineName": "燕房线",
+      "stations": [
+        {
+          "stationName": "燕山"
+        },
+        {
+          "stationName": "房山城关"
+        },
+        {
+          "stationName": "饶乐府"
+        },
+        {
+          "stationName": "马各庄"
+        },
+        {
+          "stationName": "大石河东"
+        },
+        {
+          "stationName": "星城"
+        },
+        {
+          "stationName": "阎村"
+        },
+        {
+          "stationName": "紫草坞"
+        },
+        {
+          "stationName": "阎村东"
+        }
+      ]
+    },
+    {
+      "lineNo": 23,
+      "lineName": "西郊线",
+      "stations": [
+        {
+          "stationName": "香山"
+        },
+        {
+          "stationName": "植物园"
+        },
+        {
+          "stationName": "万安"
+        },
+        {
+          "stationName": "茶棚"
+        },
+        {
+          "stationName": "颐和园西门"
+        },
+        {
+          "stationName": "巴沟"
+        }
+      ]
+    }
+  ]
+}  
